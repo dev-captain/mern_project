@@ -1,0 +1,16 @@
+.user-list p{
+    width: 50%;
+}
+.user-list {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 300px;
+    margin: auto;
+}
+.user-title {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: auto;
+}
